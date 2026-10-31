@@ -1,0 +1,1 @@
+This project contains all my practice scripts as I learn python programming language
